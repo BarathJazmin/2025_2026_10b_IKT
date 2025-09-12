@@ -1,0 +1,1 @@
+print("órai munka")
