@@ -2,3 +2,4 @@
 # kérünk egy ábrát, amit otthon megoldunk!!
 b = True
 a = 12
+c = "szöveg"
