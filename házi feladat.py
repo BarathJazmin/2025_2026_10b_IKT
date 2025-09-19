@@ -1,2 +1,3 @@
 # jó sok házi feladat kell nekünk!!!!
 # kérünk egy ábrát, amit otthon megoldunk!!
+a = 12
