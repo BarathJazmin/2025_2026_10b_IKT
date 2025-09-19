@@ -2,4 +2,4 @@
 # kérünk egy ábrát, amit otthon megoldunk!!
 #learningbranching.js.org
 
-#ajjaj, itt problémák lesznek.
+#ajjaj, itt problémák lesznek
