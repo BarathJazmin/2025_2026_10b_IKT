@@ -1,0 +1,52 @@
+#fotab{
+border: 2px solid black;
+    margin-left: 60px;
+    padding-left: 100px;
+    padding-top: 100px;
+    margin-top: 50px;
+
+}
+
+
+#tab1{
+  border: 2px solid black;
+    margin-left: 840px;
+    padding-left: 100px;
+    padding-top: 19px;
+    margin-top: 60px;
+    margin-right: 840px;
+    
+}
+
+#tab2{
+     border: 2px solid black;
+    margin-left: 860px;
+    padding-left: 100px;
+    padding-top: 80px;
+    margin-top: 50px;
+    
+}
+
+#tab3{
+
+    border: 2px solid black;
+    margin-left: 860px;
+    padding-left: 100px;
+    padding-top: 80px;
+     margin-top: 10px;
+}
+
+*{
+background-color: rgb(90, 90, 136);
+
+}
+
+#golem{
+width: 170px;
+height: 150px;
+padding-left: 850px;
+}
+
+.tabla1 {
+    background-color:blueviolet ;
+}
